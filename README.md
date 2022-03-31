@@ -54,4 +54,4 @@ Python学习
 |全局/类变量（variable）|	my_naming_convention |	_my_naming_convention|
 
 ## grid 布局
-![img.png](./img/sticky.png)
+![img.png](img/sticky.png)

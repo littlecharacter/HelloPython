@@ -19,9 +19,9 @@ lib64/
 db/
 docs/
 img/
-img/*/
+#img/*/
 log/
-.idea/
+.idea/*
 parts/
 sdist/
 var/
