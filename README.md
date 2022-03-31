@@ -38,7 +38,6 @@ Python学习
 |-- __init__.py
 |-- README    项目说明文件
 ```
-
 > _\_\_init\_\_.py的作用
 有__init__.py的目录是Python包，目录下的Python脚本叫做模块，没有的只是普通目录，一般__init__.py都为空，当导入带有__init__.py的包时都会先去执行__init__.py脚本，因此可以在__init__.py做相应的初始化。
 
@@ -53,3 +52,6 @@ Python学习
 |函数（function）|	my_naming_convention() |	_my_naming_convention()|
 |全局/类常量（constant）|	MY_NAMING_CONVENTION |	_MY_NAMING_CONVENTION|
 |全局/类变量（variable）|	my_naming_convention |	_my_naming_convention|
+
+## grid 布局
+![img.png](./img/sticky.png)
